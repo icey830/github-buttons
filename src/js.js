@@ -90,8 +90,8 @@ switch (type) {
   case 'fork':
     mainButton.className += ' github-forks';
     text.innerHTML = 'Fork';
-    button.href = 'https://github.com/' + user + '/' + repo + '/fork';
-    counter.href = 'https://github.com/' + user + '/' + repo + '/network';
+    button.href = 'https://icey830.github.io/github-buttons/' + user + '/' + repo + '/fork';
+    counter.href = 'https://icey830.github.io/github-buttons/' + user + '/' + repo + '/network';
     break;
   case 'follow':
     mainButton.className += ' github-me';
