@@ -2,11 +2,11 @@
 
 Showcase your GitHub (repo's) success with these static buttons featuring links to your GitHub repo or profile page and up-to-date watch, fork, and follower counts.
 
-To get started, checkout <https://ghbtns.com>!
+To get started, checkout <https://icey830.github.io/github-buttons/>!
 
 ## Bug tracker
 
-Have a bug? Please create an issue here on GitHub at <https://github.com/mdo/github-buttons/issues>.
+Have a bug? Please create an issue here on GitHub at <https://github.com/icey830/github-buttons/issues>.
 
 ## Development
 
@@ -27,19 +27,7 @@ $ jekyll serve --watch
 
 ## See also
 
-- [ntkme/github-buttons](https://buttons.github.io)
+- [icey830/github-buttons](https://icey830.github.io/github-buttons/)
 
-## Twitter account
 
-Keep up to date on announcements and more by following Mark on Twitter, [@mdo](https://twitter.com/mdo).
 
-## Author
-
-**Mark Otto**
-
-* https://twitter.com/mdo
-* https://github.com/mdo
-
-## Copyright and license
-
-Copyright 2014-2015 Mark Otto. Released under Apache 2.0.
