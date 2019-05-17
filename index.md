@@ -16,9 +16,9 @@ layout: default
   <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160" height="30"></iframe>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ## Watch
@@ -32,9 +32,9 @@ As such, for today's unofficial Watch button, **you must add `v=2` to the parame
   <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160" height="30"></iframe>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ## Fork
@@ -44,9 +44,9 @@ As such, for today's unofficial Watch button, **you must add `v=2` to the parame
   <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158" height="30"></iframe>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ## Follow
@@ -56,9 +56,9 @@ As such, for today's unofficial Watch button, **you must add `v=2` to the parame
   <iframe src="github-btn.html?user=mdo&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220" height="30"></iframe>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=mdo&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ---
@@ -105,9 +105,9 @@ This deprecated button is still around to avoid breaking every site that current
   <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30"></iframe>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ---
@@ -133,7 +133,7 @@ The unofficial GitHub buttons are available on GitHub for downloading, forking, 
   <iframe src="github-btn.html?user=mdo&repo=github-buttons&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="160" height="30"></iframe>
 </p>
 
-<a href="https://github.com/mdo/github-buttons" class="btn">View on GitHub</a>
+<a href="https://icey830.github.io/github-buttons" class="btn">View on GitHub</a>
 
 ---
 

@@ -4,7 +4,6 @@
   "description": "Showcase your GitHub (repo's) success with these buttons",
   "homepage": "https://icey830.github.io/github-buttons/",
   "author": "ELVNS <5728057@qq.com>",
-
   "keywords": [
     "github",
     "buttons",
@@ -18,9 +17,9 @@
   ],
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-htmlmin": "^1.1.1",
+    "gulp-htmlmin": "^1.3.0",
     "gulp-inline-source": "^1.3.0",
-    "gulp-rename": "^1.2.2",
-    "run-sequence": "^1.1.0"
+    "gulp-rename": "^1.4.0",
+    "run-sequence": "^1.2.2"
   }
 }

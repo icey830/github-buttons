@@ -1,5 +1,4 @@
-// Read a page's GET URL variables and return them as an associative array.
-// Source: http://jquery-howto.blogspot.com/2009/09/get-url-parameters-values-with-jquery.html
+
 var params = (function () {
   var vars = [],
       hash;
@@ -68,7 +67,7 @@ function callback(obj) {
 }
 
 // Set href to be URL for repo
-button.href = 'https://github.com/' + user + '/' + repo + '/';
+button.href = 'https://icey830.github.io/github-buttons/' + user + '/' + repo + '/';
 
 // Add the class, change the text label, set count link href
 switch (type) {
@@ -76,17 +75,17 @@ switch (type) {
     if (v === '2') {
       mainButton.className += ' github-watchers';
       text.innerHTML = 'Watch';
-      counter.href = 'https://github.com/' + user + '/' + repo + '/watchers';
+      counter.href = 'https://icey830.github.io/github-buttons/' + user + '/' + repo + '/watchers';
     } else {
       mainButton.className += ' github-stargazers';
       text.innerHTML = 'Star';
-      counter.href = 'https://github.com/' + user + '/' + repo + '/stargazers';
+      counter.href = 'https://icey830.github.io/github-buttons/' + user + '/' + repo + '/stargazers';
     }
     break;
   case 'star':
     mainButton.className += ' github-stargazers';
     text.innerHTML = 'Star';
-    counter.href = 'https://github.com/' + user + '/' + repo + '/stargazers';
+    counter.href = 'https://icey830.github.io/github-buttons/' + user + '/' + repo + '/stargazers';
     break;
   case 'fork':
     mainButton.className += ' github-forks';
@@ -97,8 +96,8 @@ switch (type) {
   case 'follow':
     mainButton.className += ' github-me';
     text.innerHTML = 'Follow @' + user;
-    button.href = 'https://github.com/' + user;
-    counter.href = 'https://github.com/' + user + '/followers';
+    button.href = 'https://icey830.github.io/github-buttons/' + user;
+    counter.href = 'https://icey830.github.io/github-buttons/' + user + '/followers';
     break;
 }
 button.setAttribute('aria-label', text.innerHTML + labelSuffix);

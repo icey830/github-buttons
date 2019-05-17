@@ -19,7 +19,7 @@ To build the files, just run gulp:
 $ gulp
 ```
 
-Lastly, the `https://ghbtns.com` site is built with Jekyll (requires Ruby and more). Install [Jekyll](http://jekyllrb.com) and run a local server to view your changes:
+Lastly, the `https://icey830.github.io/github-buttons` site is built with Jekyll (requires Ruby and more). Install [Jekyll](http://jekyllrb.com) and run a local server to view your changes:
 
 ```shell
 $ jekyll serve --watch
