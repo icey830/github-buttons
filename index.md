@@ -12,13 +12,13 @@ layout: default
 ## Star
 
 <div class="example">
-  <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160" height="30"></iframe>
-  <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+  <iframe src="github-btn.html?user=icey830&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160" height="30"></iframe>
+  <iframe src="github-btn.html?user=icey830&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160" height="30"></iframe>
 
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ## Watch
@@ -32,33 +32,33 @@ As such, for today's unofficial Watch button, **you must add `v=2` to the parame
   <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&repo=bootstrap&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160" height="30"></iframe>
 
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&repo=bootstrap&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ## Fork
 
 <div class="example">
-  <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158" height="30"></iframe>
-  <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+  <iframe src="github-btn.html?user=icey830&repo=bootstrap&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158" height="30"></iframe>
+  <iframe src="github-btn.html?user=icey830&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&repo=bootstrap&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158" height="30"></iframe>
 
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&repo=bootstrap&type=fork&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ## Follow
 
 <div class="example">
-  <iframe src="github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220" height="30"></iframe>
-  <iframe src="github-btn.html?user=mdo&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+  <iframe src="github-btn.html?user=icey830&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220" height="30"></iframe>
+  <iframe src="github-btn.html?user=icey830&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220" height="30"></iframe>
 
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=mdo&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ---
@@ -101,13 +101,13 @@ With the button split in August 2012, GitHub's API continued to return the Star 
 This deprecated button is still around to avoid breaking every site that currently utilizes these embeds.
 
 <div class="example">
-  <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30"></iframe>
-  <iframe src="github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+  <iframe src="github-btn.html?user=icey830&repo=bootstrap&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30"></iframe>
+  <iframe src="github-btn.html?user=icey830&repo=bootstrap&type=watch&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 </div>
 {% highlight html %}
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&repo=bootstrap&type=watch&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30"></iframe>
 
-<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
+<iframe src="https://icey830.github.io/github-buttons/github-btn.html?user=icey830&repo=bootstrap&type=watch&count=true" frameborder="0" scrolling="0" width="170" height="20"></iframe>
 {% endhighlight %}
 
 ---
